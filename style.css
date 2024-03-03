@@ -28,7 +28,6 @@ body {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 5rem;
-  aspect-ratio: 1;
 }
 
 .mid img {
